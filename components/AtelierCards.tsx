@@ -77,7 +77,7 @@ const atelierCards = [
   {
     title: 'Luxury Redefined',
     description: 'Opulent fabrics and impeccable construction',
-    image: '/DownReels_20260704_114029 (1).jpg',
+    image: '/DownReels_20260704_100639.jpg',
   },
   {
     title: 'Grand Finale',

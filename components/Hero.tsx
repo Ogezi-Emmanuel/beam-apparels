@@ -6,8 +6,8 @@ import { motion } from 'framer-motion'
 const heroImages = [
   '/DownReels_20260704_100512.jpg',
   '/DownReels_20260704_100518.jpg',
-  '/DownReels_20260704_100521.jpg',
-  '/DownReels_20260704_100637.jpg',
+  '/DownReels_20260704_113934.jpg',
+  '/DownReels_20260704_100756.jpg',
 ]
 
 export function Hero() {

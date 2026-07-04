@@ -65,7 +65,7 @@ const collections = [
     name: 'Haute Couture',
     description: 'Premium custom designs crafted to perfection',
     images: [
-      '/DownReels_20260704_114029 (1).jpg',
+      '/DownReels_20260704_100641.jpg',
       '/DownReels_20260704_114034.jpg',
     ],
     color: '#7c3aed',
